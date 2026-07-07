@@ -98,3 +98,152 @@ Le plus simple : modifie `posts.json` sur GitHub (ou dans ton repo local puis
 - Publication multi-canaux
 - Interface web pour gérer le planning sans toucher au JSON
 - Statistiques de publication (vues, clics)
+[
+  {
+    "id": "post-001",
+    "text": "🚀 CRYPTO — Le Bitcoin reste l'actif de référence du marché crypto. Mais la vraie question n'est pas \"quand acheter\", c'est \"combien de temps peux-tu tenir sans paniquer\" ? La patience bat souvent le timing parfait.",
+    "image": null,
+    "datetime": "2026-07-09T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-002",
+    "text": "📈 MARKETING — Une audience de 1000 personnes vraiment engagées vaut plus que 100 000 followers passifs. Concentre-toi sur la valeur que tu apportes, pas sur le chiffre affiché.",
+    "image": null,
+    "datetime": "2026-07-09T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-003",
+    "text": "🔥 MOTIVATION — Personne ne se souvient du jour où tu as commencé. Tout le monde se souvient du jour où tu as réussi. Continue.",
+    "image": null,
+    "datetime": "2026-07-09T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-004",
+    "text": "🏋️ SPORT — La discipline bat la motivation à tous les coups. La motivation va et vient, la discipline te fait avancer même les jours où tu n'as pas envie.",
+    "image": null,
+    "datetime": "2026-07-10T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-005",
+    "text": "✨ LIFESTYLE — Ton environnement façonne tes habitudes plus que ta volonté. Change ton décor, change tes fréquentations, et tes résultats suivront.",
+    "image": null,
+    "datetime": "2026-07-10T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-006",
+    "text": "💎 LUXE — Le vrai luxe aujourd'hui, ce n'est plus la montre ou la voiture. C'est le temps libre et le contrôle total de son emploi du temps.",
+    "image": "luxe1.jpg",
+    "datetime": "2026-07-10T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-007",
+    "text": "💼 BUSINESS — Un business qui ne résout aucun problème réel ne survit jamais longtemps. Avant de vendre, demande-toi : est-ce que je résous une vraie douleur ?",
+    "image": null,
+    "datetime": "2026-07-11T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-008",
+    "text": "🤖 IA — L'intelligence artificielle ne remplace pas les gens qui savent l'utiliser. Elle remplace ceux qui refusent de l'apprendre.",
+    "image": null,
+    "datetime": "2026-07-11T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-009",
+    "text": "🚀 CRYPTO — La diversification n'est pas juste une stratégie, c'est une protection contre ton propre ego. Ne mets jamais tous tes fonds sur une seule conviction.",
+    "image": null,
+    "datetime": "2026-07-11T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-010",
+    "text": "📈 MARKETING — Les gens n'achètent pas des produits, ils achètent des transformations. Vends le résultat, pas juste les caractéristiques.",
+    "image": null,
+    "datetime": "2026-07-12T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-011",
+    "text": "🔥 MOTIVATION — Tu n'as pas besoin d'être prêt à 100%. Tu as juste besoin de commencer à 1%. Le reste se construit en avançant.",
+    "image": null,
+    "datetime": "2026-07-12T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-012",
+    "text": "🏋️ SPORT — Ton corps s'adapte à ce que tu lui imposes régulièrement. Un effort ponctuel ne change rien, la régularité change tout.",
+    "image": null,
+    "datetime": "2026-07-12T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-013",
+    "text": "✨ LIFESTYLE — Dormir 7-8h n'est pas une perte de temps, c'est l'investissement le plus rentable de ta journée. Un cerveau reposé prend de meilleures décisions.",
+    "image": null,
+    "datetime": "2026-07-13T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-014",
+    "text": "💎 LUXE — Posséder beaucoup de choses n'est pas un signe de succès. Pouvoir dire non sans se justifier, ça, c'en est un.",
+    "image": "luxe2.jpg",
+    "datetime": "2026-07-13T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-015",
+    "text": "💼 BUSINESS — Le meilleur moment pour lancer ton projet était il y a un an. Le deuxième meilleur moment, c'est aujourd'hui.",
+    "image": null,
+    "datetime": "2026-07-13T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-016",
+    "text": "🤖 IA — Savoir poser les bonnes questions à une IA devient une compétence aussi précieuse que savoir coder il y a 10 ans.",
+    "image": null,
+    "datetime": "2026-07-14T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-017",
+    "text": "🚀 CRYPTO — Le marché récompense la patience et punit l'impulsivité. Ceux qui gagnent sur le long terme sont rarement ceux qui font le plus de trades.",
+    "image": null,
+    "datetime": "2026-07-14T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-018",
+    "text": "📈 MARKETING — La cohérence bat la perfection. Mieux vaut publier tous les jours un contenu correct que publier une fois par mois un contenu parfait.",
+    "image": null,
+    "datetime": "2026-07-14T20:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-019",
+    "text": "🔥 MOTIVATION — Ceux qui réussissent ne sont pas ceux qui n'ont jamais douté. Ce sont ceux qui ont continué malgré le doute.",
+    "image": null,
+    "datetime": "2026-07-15T08:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-020",
+    "text": "🏋️ SPORT — Tu ne trouveras jamais le temps parfait pour t'entraîner. Tu dois le créer, chaque jour, même 20 minutes.",
+    "image": null,
+    "datetime": "2026-07-15T14:00:00",
+    "sent": false
+  },
+  {
+    "id": "post-021",
+    "text": "✨ LIFESTYLE — Le succès silencieux est souvent plus solide que le succès affiché. Construis en privé, montre les résultats.",
+    "image": "lifestyle1.jpg",
+    "datetime": "2026-07-15T20:00:00",
+    "sent": false
+  }
+]
